@@ -11039,7 +11039,10 @@ p {
   border-radius: 3px 0 0 3px;
   font-weight: 100;
 }
-
+.btn-component:hover{
+  border: none;
+  background-color: #1dbf73;
+}
 .btn-component.affix {
   right: -115px;
 }
